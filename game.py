@@ -51,7 +51,7 @@ def about():
     linkedin.pack()
     twitter.pack()
 
-    repo.bind("<Button-1>", lambda e: callback("https://github.com/MariaEduardaDeAzevedo/jogo-da-velha"))
+    repo.bind("<Button-1>", lambda e: callback("https://github.com/LuanRamalho/Jogo-da-Velha-Python"))
     github.bind("<Button-1>", lambda e: callback("https://github.com/LuanRamalho/"))
     twitter.bind("<Button-1>", lambda e: callback("https://twitter.com/ddt_azevedo"))
     linkedin.bind("<Button-1>", lambda e: callback("https://www.linkedin.com/in/mariaeduardadeazevedo/"))
