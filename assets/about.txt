@@ -1,0 +1,22 @@
+Ola! Primeiramente, muito obrigado por jogar! 
+
+Esse mini-game foi desenvolvido de uma forma muito expontanea e aleataria por
+Luan Ramalho, formado em ciencia da computacao, utilizando Python3 e algumas bibliotecas,
+como Pygame, para a GUI do jogo e Tkinter, para essa janela que voce esta 
+agora.
+
+E como que o computador consegue jogar com voce? Bem, por tras de tudo isso
+existe a implementacao de um algoritmo chamado de "minimax", que faz com que
+o seu computador saiba fazer otimas decisoes durante o jogo, tornando ate um
+pouco dificil a possibilidade de conseguir vence-lo. 
+
+Voce pode usar esse mini-game nao apenas para se divertir, mas tambem para
+aprender estrategias! Observar como o computador joga e como preve boas jogadas
+pode ajudar voce a jogar muito bem contra seus amigos, familiares e tambem seus 
+colegas da faculdade.
+
+Caso esteja interessado em dar uma olhada no codigo, segue o link do repositorio
+no GitHub abaixo! Tudo que eu faco e com muito gosto e orgulho em programacao. Desde
+adolescente sempre amei a area de tecnologia da informacao. Programar e tudo de bom e 
+vale muito a pena praticar, pois tu pode desenvolver sempre novos programas como esse
+que eu desenvolvi.
