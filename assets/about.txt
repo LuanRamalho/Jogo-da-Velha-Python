@@ -1,4 +1,4 @@
-Ola Pessoal. Primeiramente, muito obrigado por jogar. 
+Olá Pessoal. Primeiramente, muito obrigado por jogar. 
 
 Esse mini-game foi desenvolvido de uma forma muito expontânea e aleatória por
 Luan Ramalho, formado em ciência da computação, no Centro Universitário Carioca (Unicarioca), 
