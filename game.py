@@ -45,16 +45,19 @@ def about():
     github = tk.Label(fg="blue", text="GitHub")
     linkedin = tk.Label(fg="blue", text="Linkedin")
     twitter = tk.Label(fg="blue", text="Twitter")
+    instagram = tk.Label(fg="blue", text="Instagram")
 
     repo.pack()
     github.pack()
     linkedin.pack()
     twitter.pack()
+    instagram.pack()
 
     repo.bind("<Button-1>", lambda e: callback("https://github.com/LuanRamalho/Jogo-da-Velha-Python"))
     github.bind("<Button-1>", lambda e: callback("https://github.com/LuanRamalho/"))
-    twitter.bind("<Button-1>", lambda e: callback("https://twitter.com/ddt_azevedo"))
-    linkedin.bind("<Button-1>", lambda e: callback("https://www.linkedin.com/in/mariaeduardadeazevedo/"))
+    twitter.bind("<Button-1>", lambda e: callback("https://twitter.com/Luan8362"))
+    linkedin.bind("<Button-1>", lambda e: callback("https://www.linkedin.com/in/luan-ramalho-b7ba31138/"))
+    instagram.bind("<Button-1>", lambda e: callback ("https://www.instagram.com/luan.da.silva.ramalho/"))
 
     window.mainloop()
     file.close()
